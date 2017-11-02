@@ -1,6 +1,4 @@
 <?php
-
-
 class Opiskelija
 {
   $nimet=array(
@@ -13,4 +11,4 @@ class Opiskelija
     return $this->nimet();
   }
 }
- ?>
+?>

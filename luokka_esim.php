@@ -2,7 +2,7 @@
 <h1>Php class esimerkki</h1>
 Opiskelijat ovat;<br>
 <?php
-include "opiskelija.php";
+include 'opiskelija.php';
 $opiskelijat=new Opiskelija();
 
 $nimet=$opiskelijat->get_nimet();
