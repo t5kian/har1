@@ -1,4 +1,4 @@
-<?php include "menup.php"; ?>
+<?php include "menu.php"; ?>
 <h1>PHP Esimerkki</h1>
 <p>
   Tämä on ensimmäinen esimerkki.
