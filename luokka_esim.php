@@ -8,7 +8,7 @@ $opiskelijat=new Opiskelija();
 $nimet=$opiskelijat->get_nimet();
 
 foreach ($nimet as $rivi) {
-  echo '<tr><td>'.$rivi['Etunimi'].'</td><td>'.$rivi['Sukunimi'].'</td></tr>';
+  echo '<tr><td>'.$rivi['Etunimi'].'</td> <td>'.$rivi['Sukunimi'].'</td><br></tr>';
 }
  ?>
 <?php include "footer.php"; ?>

@@ -9,7 +9,7 @@
   <body>
     <div id="menu">
     <ul>
-      <li><a href="#">Etusivu</a></li>
+      <li><a href="index.php">Etusivu</a></li>
       <li><a href="eka.php">Array esimerkki</a></li>
       <li><a href="get_esim.php">Get esimerkki</a></li>
       <li><a href="post_esim.php">Post esimerkki</a></li>
